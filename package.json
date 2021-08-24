@@ -30,6 +30,7 @@
     "test:ci": "yarn test --coverage"
   },
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "validator": "^13.6.0"
   }
 }
